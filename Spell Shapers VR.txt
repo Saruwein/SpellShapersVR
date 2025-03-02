@@ -1,0 +1,74 @@
+Spell Shapers VR : Elemental Tetrad
+
+Small range of movements:
+- a movement spell
+- a blocking spell
+- a range spell
+- a shackle
+- a tackle
+
+Applying a few elements:
+- fire
+- air
+- earth
+- water
+
+fighting class identity:	
+- fire :  ramping damage 	-> damage stacks	- range			- strength: earth	- weakness: water
+- air :	  assassine		-> 'covert' damage amp	- burst			- strength: water	- weakness: earth
+- earth : tank			-> shielding & speed	- trading with shields	- strength: air		- weakness: fire
+- water : bruiser		-> lifesteal & sustain	- prolonged melee	- strength: fire	- weakness: air
+
+Spell + Element Combinations:
+
+move (applies final speed as slowly decaying speed stacks):
+ - fire : 	dash short distances or settle into gliding at slower pace 
+		+ increases range and stacking speed for 3 following shots
+ - earth : 	set into a gliding motion with ramping speed 
+		+ get shield based on max health and missing health
+ - air : 	invisibly blink to a nearby destination 
+		+ gain movement speed + reset back to position within 5s of using the ability
+ - water : 	dash a long distance 
+		+ reduce negative stats impact
+
+block:
+ - fire : 	block 85% incoming damage 
+		+ recieve decreased damage from burining targets
+ - earth : 	block 95% of incoming damage 
+		+ 15% chance to get a small shield + reduced blocking cooldown
+ - air : 	block 66% of incominging damage 
+		+ inflict 16% of incoming damage back at the enemy + increase blocking timer by 2s
+ - water : 	block 85% of incoming damage 
+		+ 75% chance to deny debuffs or enemy stacking + increased healing based on damage recieved for 7s
+
+range: 
+ - fire : 	medium damage projectile 
+		+ applies buring stacks (max 20) + increases damage by 2% per burning stack + applies visible radience to target
+ - earth : 	short range high damage projectile 
+		+ small knockback (increased from speed stacks) + 15% chance at impairing effect 
+ - air : 	low damage, static ray, lingers for .8s 
+		+ reduces resilience a little + 10% chance applies blindness for 2s 
+ - water : 	a fast projectile which deals higher damage on short distance 
+		+ 2% life steal + 5% chance at small slowing effect, stacking up to 5
+
+shackle (removes all speed stacks):
+ - fire : 	brisk root, followed by flaming cage (2s) 
+		+ applies flaming stacks over time and reduces shields
+ - earth : 	short dead-lock 
+		+ reduces positive amplifiers on target
+ - air : 	medium airborn effect
+		+ target faces up (and exposes backside to ground)
+ - water : 	lasting slows 
+		+ slows reduce blinking/dashing distance or gliding move speed
+
+tackle (interrupts spells, uses speed stacks):
+ - fire : 	cover medium distance, with large area skill at medium speed 
+		+ knocks back enemy on impact and slows them + apply 5 fire stacks instantly
+ - earth : 	launches small projectile at high speed 
+		+ on hit, combine move AND shackle
+ - air : 	close range combat spell, can hardly be missed 
+		+ deals high damage based on velocity stacks + 30% damage amp if unseen
+ - water : 	spawn 6 AOE tentacles in a hexagon around target 
+		+ tentacles slap enemy for 3% lifesteal + reactivate to pull towards target at high speed + apply damage on impact
+
+
